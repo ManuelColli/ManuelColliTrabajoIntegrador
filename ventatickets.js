@@ -50,4 +50,3 @@ function borrarFormulario(evt) {
 
 botonCalcular.onclick = calcularTickets;
 botonBorrar.onclick = borrarFormulario;
-Footer

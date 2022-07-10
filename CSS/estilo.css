@@ -1,8 +1,3 @@
-.fondo-imagen {
-    background-image: url(../img/ba1.jpg);
-    background-size: cover;
-}
-
 body{
     margin: 0;
     padding: 0;
@@ -43,6 +38,14 @@ body{
     align-content: center;
 }
 
+.form-button {
+    color: white;
+    font-weight: bold;
+    background-color: #96c93e;
+    border-radius: 1;
+}
+
+
 #send-form-button {
     color: white;
     font-weight: bold;
@@ -53,7 +56,9 @@ body{
     text-align: right;
 }
 
-
+.card-discount {
+    max-width: 200px;
+}
 
 footer {
     background-color: #1e516e;
